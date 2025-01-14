@@ -1,1 +1,2 @@
 # Capstone-Project-Relational-Database_
+LinkedIn, founded in 2002 by Reid Hoffman, has evolved into the world's largest professional networking platform. Acquired by Microsoft in 2016, LinkedIn is renowned for its role in connecting professionals, facilitating career growth, and fostering industry insights. With over 740 million members worldwide, LinkedIn has redefined professional networking, offering a platform for personal branding, recruitment, and business development.
